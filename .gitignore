@@ -1,0 +1,19 @@
+# meta
+.project
+.DS_Store
+.idea
+.secret
+.keep
+.byebug_history
+.bundle
+
+# temp
+/log/*
+/tmp/*
+/yarn-*.log
+*.swp
+*~
+
+# vendor
+node_modules/
+vendor/
